@@ -1,0 +1,29 @@
+{
+  "name": "party-line",
+  "version": "1.0.0",
+  "description": "Provides a simple but secured distributed IPC bus.",
+  "dependencies": {
+    "flatiron": "*",
+    "node-uuid": "^1.4.1"
+  },
+  "author": {
+    "name": "Shawn Rapp",
+    "email": "shawn.rapp@gmail.com"
+  },
+  "contributors": [],
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "readmeFilename": "info.md",
+  "bugs": {
+    "url": ""
+  }
+}
