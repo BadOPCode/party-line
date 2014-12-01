@@ -1,4 +1,4 @@
-var partyline = require('../lib/index.js');
+var partyline = require('..');
   
 var test  = partyline.addWorker();
 
