@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Provides a simple but secured distributed IPC bus.",
   "dependencies": {
+    "JSONStream": "^0.10.0",
     "flatiron": "*",
     "node-uuid": "^1.4.1"
   },
