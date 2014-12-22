@@ -1,3 +1,4 @@
+//TODO: This test is completely broken
 var partyline = require('..');
   
 var test  = partyline.addWorker();
