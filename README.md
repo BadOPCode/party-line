@@ -31,5 +31,5 @@ API Function List
 
 To Do
 -----
-Bus to Bus routing
-SAP services - This would allow a sub to know if it has exhausted every possible service that it's current bus knows about. Also would improve routing for Bus to Bus.
+- Bus to Bus routing
+- SAP services. This would allow a sub to know if it has exhausted every possible service that it's current bus knows about. Also would improve routing for Bus to Bus.
