@@ -5,7 +5,8 @@
   "dependencies": {
     "JSONStream": "^0.10.0",
     "flatiron": "*",
-    "node-uuid": "^1.4.1"
+    "node-uuid": "^1.4.1",
+    "winston": "^0.8.3"
   },
   "author": {
     "name": "Shawn Rapp",
