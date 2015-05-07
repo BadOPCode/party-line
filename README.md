@@ -53,9 +53,21 @@ How To Use
 
 API Function List
 -----------------
+setListenContext
+``` {"context":"bus","type":"setListenContext","listen_context":["web.html"]} ```
+
+sapQuery
+``` {"context":"bus","type":"sapQuery","service_context":"web.html"} ```
+
+whoAmI
+``` {"context":"bus","type":"whoAmI"} ```
+
+youAre
+``` {"from":"bus","type":"youAre","worker_id":"0bd361f0-3a0a-497b-bd64-63b14a279d06","bus_id":"a54543a3-0be5-4a69-8c88-d1adab94e676"} ```
 
 
 To Do
 -----
 - Bus to Bus routing
-- SAP services. This would allow a sub to know if it has exhausted every possible service that it's current bus knows about. Also would improve routing for Bus to Bus.
+- Remote processors (SSH tunneled)
+- Documentation
